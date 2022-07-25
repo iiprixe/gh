@@ -1,0 +1,57 @@
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Red Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Purple Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Green Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Cotton Candy Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Pirate Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Poseidon Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Pink Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Smores Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Chocolate Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Half Eaten Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Kreek Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Basic Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Yellow Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Null Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Baby Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Molten Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Sus Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Blocky Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Burnt Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Flamingo Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Picnic Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Three Headed Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Earth Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Farmer Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Knight Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Royal Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Mummy Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Pharaoh Pop Tart"].Hitbox.CFrame 
+wait(0.5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace")["Pop_Tarts"]["Spy Pop Tart"].Hitbox.CFrame 
